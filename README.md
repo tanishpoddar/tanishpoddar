@@ -1,16 +1,26 @@
-### Hi there 👋
+# 👋 Hello, I'm Tanish Poddar!
 
-<!--
-**tanishpoddar/tanishpoddar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering student at SRM Institute of Science and Technology, passionate about technology and continuous learning. 🚀
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- Python
+- MySQL
+- C++ (exploring)
+- Java (exploring)
+
+## 🌟 Passionate about...
+
+- Leadership roles
+- Tackling complex projects
+- Ethical hacking for enhanced cybersecurity
+
+## 🚀 Future Goals
+
+Excited about future opportunities to contribute to open-source projects and collaborate with like-minded individuals.
+
+Connect with me on [LinkedIn]((https://www.linkedin.com/in/tanish-poddar/))! Let's build something awesome together. 🚧
+
+Feel free to explore my repositories below and don't hesitate to reach out! 📬
