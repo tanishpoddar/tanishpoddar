@@ -21,6 +21,6 @@ I'm a Computer Science Engineering student at SRM Institute of Science and Techn
 
 Excited about future opportunities to contribute to open-source projects and collaborate with like-minded individuals.
 
-Connect with me on [LinkedIn]((https://www.linkedin.com/in/tanish-poddar/))! Let's build something awesome together. 🚧
+Connect with me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/tanish-poddar/)) and [Twitter](your-twitter-profile)! Let's build something awesome together. 🚧
 
 Feel free to explore my repositories below and don't hesitate to reach out! 📬
