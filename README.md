@@ -1,26 +1,40 @@
-# 👋 Hello, I'm Tanish Poddar!
+# Tanish Poddar
 
-I'm a Computer Science Engineering student at SRM Institute of Science and Technology, passionate about technology and continuous learning. 🚀
+## Sophomore CSE Student at SRM Institute of Science and Technology, Kattankulathur.
 
-## 💻 Tech Stack
+---
 
-- HTML
-- CSS
-- Python
-- MySQL
-- C++ (exploring)
-- Java (exploring)
+### Tech Stack
 
-## 🌟 Passionate about...
+- **Kotlin**
+- **Python**
+- **MySQL**
+- **HTML5, CCS3**
+- **Tailwind CSS**
+- **Javascript**
 
-- Leadership roles
-- Tackling complex projects
-- Ethical hacking for enhanced cybersecurity
+---
 
-## 🚀 Future Goals
+### Areas of Interest
 
-Excited about future opportunities to contribute to open-source projects and collaborate with like-minded individuals.
+- Leadership Roles
+- Tackling Complex Projects
+- Graphic Designing
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/tanish-poddar/). For More, Click Here : [LinkTree](https://linktr.ee/tanishpoddar)! Let's build something awesome together. 🚧
+---
 
-Feel free to explore my repositories below and don't hesitate to reach out! 📬
+### Future Goals
+
+I am enthusiastic about future opportunities to contribute to open-source projects and collaborate with like-minded individuals.
+
+---
+
+### Connect with Me
+
+- **LinkedIn**: [Tanish Poddar](https://www.linkedin.com/in/tanish-poddar/)
+- **LinkTree**: [LinkTree](https://linktr.ee/tanishpoddar)
+
+Feel free to explore my repositories and do not hesitate to reach out!
+
+### GitHub Stats :
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tanishpoddar&theme=rising-sun&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
