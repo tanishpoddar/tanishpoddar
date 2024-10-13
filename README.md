@@ -1,40 +1,17 @@
-# Tanish Poddar
+<h2 align="center"><samp>👋 Hello! I'm Tanish Poddar.</samp></h2>
 
-## Sophomore CSE Student at SRM Institute of Science and Technology, Kattankulathur.
+<p align="center">
+  <a href="https://linkedin.com/in/tanishpoddar">
+    <img src="https://img.shields.io/badge/Connect%20with%20me-%230e76a8?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
+</p>
 
----
+## :wave: About Me
+- 🖥 WebDev Enthusiast.
+- 🎓 Pursuing BTech CSE @SRMIST.
 
-### Tech Stack
 
-- **Kotlin**
-- **Python**
-- **MySQL**
-- **HTML5, CCS3**
-- **Tailwind CSS**
-- **Javascript**
-
----
-
-### Areas of Interest
-
-- Leadership Roles
-- Tackling Complex Projects
-- Graphic Designing
-
----
-
-### Future Goals
-
-I am enthusiastic about future opportunities to contribute to open-source projects and collaborate with like-minded individuals.
-
----
-
-### Connect with Me
-
-- **LinkedIn**: [Tanish Poddar](https://www.linkedin.com/in/tanish-poddar/)
-- **LinkTree**: [LinkTree](https://linktr.ee/tanishpoddar)
-
-Feel free to explore my repositories and do not hesitate to reach out!
-
-### GitHub Stats :
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tanishpoddar&theme=rising-sun&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+## :chart_with_upwards_trend: GitHub Stats
+<p align="center">
+  <img src="https://git-hub-readme-stats-nu.vercel.app/api?username=tanishpoddar&theme=radical&show_icons=true&bg_color=00000000&rank_icon=github&count_private=true&border_radius=15&hide_title=true">
+</p>
