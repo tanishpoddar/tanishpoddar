@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
             loader.style.display = 'none';
             mainContent.style.display = 'block';
             mainContent.style.animation = 'fadeIn 0.5s ease';
-        }, 500);
+        }, 4000);
     }, 100);
 
     // Back to top button functionality

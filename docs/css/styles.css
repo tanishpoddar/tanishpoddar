@@ -677,6 +677,8 @@
 }
 /* Root Variables */
 :root {
+    --font-primary: 'Inter', -apple-system, sans-serif;    /* For headings */
+    --font-secondary: 'Space Grotesk', sans-serif;         /* For body text */
     --bg-primary: #111827;
     --bg-secondary: #1f2937;
     --text-primary: #f9fafb;
