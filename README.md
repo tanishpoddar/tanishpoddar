@@ -1,7 +1,7 @@
 # About Me :
 - I'm looking to collaborate on **Kotlin Projects.**<br>
 - Ask me about **Front-End WebDev**<br>
-- [My Portfolio Website](tanishpoddar.github.io/tanishpoddar)<br>
+- [My Portfolio Website](https://tanish-poddar.is-a.dev/)<br>
 - Reach me at : **tanishpoddar.18@gmail.com**
 
 
