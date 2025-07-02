@@ -1,6 +1,6 @@
 # About Me :
-- I'm looking to collaborate on **Kotlin Projects & AWS (Cloud) Projects.**<br>
-- Ask me about **WebDev**<br>
+- I'm looking to collaborate on **Cloud & DevOps project.**<br>
+- Ask me about **WebDev, AppDev using Kotlin & Python Dev**<br>
 - [My Portfolio Website](https://tanish-poddar.is-a.dev/)<br>
 - Reach me at : **tanishpoddar.18@gmail.com**
 
